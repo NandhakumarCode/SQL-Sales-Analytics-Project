@@ -90,10 +90,3 @@ Highlighted top-performing customers and products.
 PostgreSQL
 SQL
 GitHub
-
-**Repository Structure**
-Sales-Analytics-SQL-Project
-│
-├── SQL Queries
-├── Dataset
-└── README.me
