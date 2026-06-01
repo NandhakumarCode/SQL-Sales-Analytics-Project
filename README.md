@@ -39,46 +39,46 @@ Before performing the analysis, the dataset was validated through the following 
 - Ensured data consistency across tables
 
 **Analysis Performed**
-1. Sales Trend Analysis
-Monthly sales aggregation
+1. Sales Trend Analysis :
+Monthly sales aggregation,
 Identification of sales trends over time
 
-2. Running Metrics
-Running Total Sales
+2. Running Metrics :
+Running Total Sales,
 Running Average Price
 
-3. Product Performance Analysis
+3. Product Performance Analysis :
 Year-over-Year sales comparison
-Comparison of product sales against average sales performance
+Comparison of product sales against average sales performance,
 Previous year vs current year performance analysis
 
-4. Category Contribution Analysis
+4. Category Contribution Analysis :
 Percentage contribution of each product category to total sales
 
-5. Product Segmentation
-Grouped products into cost ranges
+5. Product Segmentation :
+Grouped products into cost ranges,
 Counted products within each segment
 
-6. Customer Segmentation
+6. Customer Segmentation :
 Classified customers into spending segments:
-High Value
-Medium Value
-Low Value
+High Value,
+Medium Value,
+Low Value.
 
-7. Customer Performance Report
+7. Customer Performance Report :
 
 Generated customer-level KPIs including:
 
-Total Sales
-Total Orders
-Recency (Months Since Last Order)
-Average Order Value
-Average Monthly Spend
+Total Sales,
+Total Orders,
+Recency (Months Since Last Order),
+Average Order Value,
+Average Monthly Spend.
 
-8. Top-N Analysis
-Top Customers by Revenue
-Top Products by Sales
-Ranking using SQL Window Functions
+8. Top-N Analysis :
+Top Customers by Revenue,
+Top Products by Sales,
+Ranking using SQL Window Functions.
 
 **SQL Concepts Used**
 Joins
