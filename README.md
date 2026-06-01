@@ -48,7 +48,6 @@ Running Total Sales,
 Running Average Price
 
 3. Product Performance Analysis :
-Year-over-Year sales comparison
 Comparison of product sales against average sales performance,
 Previous year vs current year performance analysis
 
@@ -76,20 +75,19 @@ Average Order Value,
 Average Monthly Spend.
 
 8. Top-N Analysis :
-Top Customers by Revenue,
-Top Products by Sales,
+Top Customers by Sales,
 Ranking using SQL Window Functions.
 
 **SQL Concepts Used**
-Joins
-Common Table Expressions (CTEs)
-Aggregate Functions
-Window Functions
-CASE Statements
-Ranking Functions (ROW_NUMBER, RANK, DENSE_RANK)
-Date Functions
-Group By & Having
-Subqueries
+Joins,
+Common Table Expressions (CTEs),
+Aggregate Functions,
+Window Functions,
+CASE Statements,
+Date Functions,
+Group By & Having,
+Delete,Alter and Drop.
+
 
 **Key Business Insights**
 Identified sales trends across different time periods.
@@ -99,6 +97,6 @@ Segmented customers based on spending behavior.
 Highlighted top-performing customers and products.
 
 **Tools Used**
-PostgreSQL
-SQL
-GitHub
+PostgreSQL,
+Excel,
+GitHub.
