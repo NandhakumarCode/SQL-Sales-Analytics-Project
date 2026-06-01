@@ -17,7 +17,8 @@ due_date
 sales_amount
 quantity
 price
-Dimension Tables
+
+**Dimension Tables**
 
 **dim_products**
 
@@ -27,7 +28,7 @@ Product information and attributes
 
 Customer demographics and details
 
-**Data Cleaning**
+**Data Cleaning** : 
 Before performing the analysis, the dataset was validated through the following checks:
 
 - Verified data types for all columns
