@@ -8,15 +8,15 @@ Fact Table
 
 **fact_sales**
 
-order_number
-product_key
-customer_key
-order_date
-shipping_date
-due_date
-sales_amount
-quantity
-price
+order_number,
+product_key,
+customer_key,
+order_date,
+shipping_date,
+due_date,
+sales_amount,
+quantity,
+price.
 
 **Dimension Tables**
 
