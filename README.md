@@ -26,7 +26,19 @@ Product information and attributes
 **dim_customers**
 
 Customer demographics and details
-Analysis Performed
+
+**Data Cleaning**
+Before performing the analysis, the dataset was validated through the following checks:
+
+- Verified data types for all columns
+- Checked for NULL values
+- Identified and handled duplicate records
+- Validated order date ranges
+- Verified relationships between Fact and Dimension tables
+- Checked for missing Product Keys and Customer Keys
+- Ensured data consistency across tables
+
+**Analysis Performed**
 1. Sales Trend Analysis
 Monthly sales aggregation
 Identification of sales trends over time
