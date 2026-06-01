@@ -4,6 +4,7 @@
 This project analyzes sales performance using a Star Schema data model consisting of one Fact table and two Dimension tables. The objective is to generate business insights related to sales trends, product performance, and customer behavior using SQL.
 
 **Data Model**
+
 Fact Table
 
 **fact_sales**
